@@ -1,3 +1,5 @@
 {"person_name":"Igor",
 "person_age":35,
-"person_weight":85}
+"person_weight":85,
+"person_salary":1000,
+"person_car":"BMW"}
